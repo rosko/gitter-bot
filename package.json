@@ -1,0 +1,27 @@
+{
+  "name": "gitter-bot",
+  "version": "0.0.1",
+  "description": "Task for UAWebChallenge 2015",
+  "main": "bot/index.js",
+  "dependencies": {
+    "node-gitter": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosko/gitter-bot.git"
+  },
+  "keywords": [
+    "gitter",
+    "uawebchallenge"
+  ],
+  "author": "Alexey Volkov <alexey@rumble.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosko/gitter-bot/issues"
+  },
+  "homepage": "https://github.com/rosko/gitter-bot"
+}
